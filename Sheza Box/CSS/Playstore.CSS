@@ -1,0 +1,25 @@
+p{
+    text-align: center;
+    font-size: 3vw;
+    margin-top: 10% !important;
+}
+
+/* .getitongoogleplay {
+    position: absolute !important;
+    top: 20% !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    width: 200px !important;
+    height: 100px !important;
+    
+  } */
+
+  .getitongoogle {
+    max-width: 100% !important;
+    height: auto !important;
+    display: block !important;
+    margin-top: 0% !important;
+    margin-left: 50% !important;
+    margin-right: 50% !important;
+  }

@@ -1,0 +1,24 @@
+
+/* body{
+    background-color: rgb(194, 122, 29);
+} */
+
+
+body{
+    background-color: honeydew !important;
+} 
+
+img{
+    border-radius: 20px;
+    margin-right: 20px ;
+    box-shadow: 5px 5px 5px 5px blanchedalmond;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Basic{
+    margin-top: 10%;
+}
